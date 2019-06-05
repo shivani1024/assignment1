@@ -70,3 +70,22 @@ void main()
     }
     getch();
 }
+
+/*Sample Output
+
+Enter the order of matrix:2
+
+Enter matrix elements row-wise
+A[1][1]=1
+A[1][2]=3
+A[2][1]=2
+A[2][2]=1
+
+Enter the column vector
+X[1]=1
+X[2]=2
+
+ The required eigen value is 3.451491
+
+The required eigen vector is :
+1.000000        0.816216 */
